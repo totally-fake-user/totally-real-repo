@@ -13,5 +13,3 @@ let a = "this is how it works"asdfafsdf
 let abc.easyAs(1233)
 
 // Yeah it works...
-
-ok
