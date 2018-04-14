@@ -4,7 +4,7 @@
 // [x] save one file
 // [x] open multiple files
 // [x] save multiple files
-// [ ] fix debouncing
+// [ ] fix debouncing... it is kind
 // [ ] create new file/folder
 // [ ] delete file/folder
 // [ ] works for other repos
