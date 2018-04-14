@@ -6,7 +6,7 @@
 // [x] save multiple files
 // [ ] create new file/folder
 // [ ] delete file/folder
-// [ ] works for o
+// [ ] works for other repos
 
 let a = "this is how it works"
 let abc.easyAs(1233)
