@@ -4,7 +4,7 @@
 
 Check it out. 
 
-[Test](/)
+[Test](/stuff/)
 
 ```javascript
 // This repo can be found on https://github.com/totally-fake-user/totally-real-repo
