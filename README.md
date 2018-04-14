@@ -4,7 +4,7 @@
 // [x] save one file
 // [x] open multiple files
 // [x] save multiple files
-// [ ] create new file
+// [ ] create new file/folder
 // [ ] create new folder
 // [ ] delete 
 
