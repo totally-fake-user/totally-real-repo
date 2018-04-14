@@ -2,7 +2,7 @@
 //
 // [x] open one file
 // [x] save one file
-// [x] open one file
+// [x] open multiple file
 
 let a = "this is how it works"
 let abc.easyAs(1233)
