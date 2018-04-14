@@ -4,7 +4,7 @@
 // [x] save one file
 // [x] open multiple files
 // [x] save multiple files
-// [x] save multiple files
+// [ ] create new file
 
 let a = "this is how it works"
 let abc.easyAs(1233)
