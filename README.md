@@ -5,7 +5,8 @@
 // [x] open multiple files
 // [x] save multiple files
 // [ ] create new file
-// [ ] create new fol
+// [ ] create new folder
+// [ ] create new folder
 
 let a = "this is how it works"
 let abc.easyAs(1233)
