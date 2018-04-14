@@ -5,7 +5,6 @@
 // [x] open multiple files
 // [x] save multiple files
 // [ ] create new file/folder
-// [ ] create new folder
 // [ ] delete 
 
 let a = "this is how it works"
